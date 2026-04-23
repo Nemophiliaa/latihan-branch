@@ -1,2 +1,2 @@
 # latihan-branch
-# Ini itu repo utama
+__latihan membuat fufafa__
